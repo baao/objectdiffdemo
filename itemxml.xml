@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Item xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+    <ASIN>B00P0QCBJ2</ASIN>
+    <DetailPageURL>
+        https://www.amazon.de/Wasserionisator-Herstellung-Silberwasser-kolloidales-Laugenwasser/dp/B00P0QCBJ2?&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00P0QCBJ2
+    </DetailPageURL>
+    <ItemLinks>
+        <ItemLink>
+            <Description>Add To Wishlist</Description>
+            <URL>https://www.amazon.de/gp/registry/wishlist/add-item.html?asin.0=B00P0QCBJ2&amp;&amp;linkCode=xm2&amp;camp=2025&amp;creative=12738&amp;creativeASIN=B00P0QCBJ2</URL>
+        </ItemLink>
+        <ItemLink>
+            <Description>Tell A Friend</Description>
+            <URL>https://www.amazon.de/gp/pdp/taf/B00P0QCBJ2?&amp;linkCode=xm2&amp;camp=2025&amp;creative=12738&amp;creativeASIN=B00P0QCBJ2</URL>
+        </ItemLink>
+        <ItemLink>
+            <Description>All Customer Reviews</Description>
+            <URL>https://www.amazon.de/review/product/B00P0QCBJ2?&amp;linkCode=xm2&amp;camp=2025&amp;creative=12738&amp;creativeASIN=B00P0QCBJ2</URL>
+        </ItemLink>
+        <ItemLink>
+            <Description>All Offers</Description>
+            <URL>https://www.amazon.de/gp/offer-listing/B00P0QCBJ2?&amp;linkCode=xm2&amp;camp=2025&amp;creative=12738&amp;creativeASIN=B00P0QCBJ2</URL>
+        </ItemLink>
+    </ItemLinks>
+    <SmallImage>
+        <URL>https://images-eu.ssl-images-amazon.com/images/I/31atrbDTIOL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">75</Width>
+    </SmallImage>
+    <MediumImage>
+        <URL>https://images-eu.ssl-images-amazon.com/images/I/31atrbDTIOL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">160</Width>
+    </MediumImage>
+    <LargeImage>
+        <URL>https://images-eu.ssl-images-amazon.com/images/I/31atrbDTIOL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">500</Width>
+    </LargeImage>
+    <ImageSets>
+        <ImageSet Category="primary">
+            <SwatchImage>
+                <URL>https://images-eu.ssl-images-amazon.com/images/I/31atrbDTIOL._SL30_.jpg</URL>
+                <Height Units="pixels">30</Height>
+                <Width Units="pixels">30</Width>
+            </SwatchImage>
+            <SmallImage>
+                <URL>https://images-eu.ssl-images-amazon.com/images/I/31atrbDTIOL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">75</Width>
+            </SmallImage>
+            <ThumbnailImage>
+                <URL>https://images-eu.ssl-images-amazon.com/images/I/31atrbDTIOL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">75</Width>
+            </ThumbnailImage>
+            <TinyImage>
+                <URL>https://images-eu.ssl-images-amazon.com/images/I/31atrbDTIOL._SL110_.jpg</URL>
+                <Height Units="pixels">110</Height>
+                <Width Units="pixels">110</Width>
+            </TinyImage>
+            <MediumImage>
+                <URL>https://images-eu.ssl-images-amazon.com/images/I/31atrbDTIOL._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">160</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>https://images-eu.ssl-images-amazon.com/images/I/31atrbDTIOL.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">500</Width>
+            </LargeImage>
+        </ImageSet>
+    </ImageSets>
+    <ItemAttributes>
+        <Binding>Haushaltswaren</Binding>
+        <Brand>Burbuliukas</Brand>
+        <Color>Weiß</Color>
+        <EAN>4770313850130</EAN>
+        <EANList>
+            <EANListElement>4770313850130</EANListElement>
+            <EANListElement>0752584100866</EANListElement>
+            <EANListElement>4770313850994</EANListElement>
+        </EANList>
+        <Feature>Zur Herstellung von basischem Aktiv-Wasser, pH 8,0 bis 11,0</Feature>
+        <Feature>Zur Herstellung von saurem Oxid-Wasser, pH 6 bis 2,4</Feature>
+        <Feature>Zur Herstellung von Silberwasser innerhalb von wenigen Sekunden</Feature>
+        <Feature>Einfache Bedienung mit Zeitsteuerung</Feature>
+        <Feature>incl. 20 Trenn-Membranen (1 Membran ist für ca. 10-20 Durchläufe geeignet)</Feature>
+        <IsAdultProduct>false</IsAdultProduct>
+        <ItemDimensions>
+            <Height Units="hundredths-inches">1417</Height>
+            <Length Units="hundredths-inches">787</Length>
+            <Width Units="hundredths-inches">787</Width>
+        </ItemDimensions>
+        <Label>Burbuliukas</Label>
+        <LegalDisclaimer>Privatverkauf, keine Rücknahme</LegalDisclaimer>
+        <ListPrice>
+            <Amount>29900</Amount>
+            <CurrencyCode>EUR</CurrencyCode>
+            <FormattedPrice>EUR 299,00</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>Burbuliukas</Manufacturer>
+        <Model>PTV-KL</Model>
+        <MPN>PTV-KL</MPN>
+        <PackageDimensions>
+            <Height Units="hundredths-inches">661</Height>
+            <Length Units="hundredths-inches">882</Length>
+            <Weight Units="hundredths-pounds">265</Weight>
+            <Width Units="hundredths-inches">756</Width>
+        </PackageDimensions>
+        <PackageQuantity>1</PackageQuantity>
+        <PartNumber>PTV-KL</PartNumber>
+        <ProductGroup>Drogerie &amp; Körperpflege</ProductGroup>
+        <ProductTypeName>HEALTH_PERSONAL_CARE</ProductTypeName>
+        <Publisher>Burbuliukas</Publisher>
+        <Studio>Burbuliukas</Studio>
+        <Title>Wasserionisator zu Herstellung von basischem Wasser und Silberwasser, kolloidales Silber, saures Wasser,
+            Laugenwasser, ionisiertes Wasser
+        </Title>
+        <UPC>752584100866</UPC>
+        <UPCList>
+            <UPCListElement>752584100866</UPCListElement>
+        </UPCList>
+    </ItemAttributes>
+    <EditorialReviews>
+        <EditorialReview>
+            <Source>Product Description</Source>
+            <Content>Mit dem Wasserinonisator PTV-AL können Sie innerhalb weniger Minuten aus normalem Leitungswasser
+                sowohl basisches als auch saures Wasser herstellen und der weiteren Verwendung zuführen. Basisches
+                Wasser ist ein natürliches Reizmittel, das z.B. die Entwicklung der Pflanzen fördert, Saatkeimung
+                beschleunigt, Blühzeit der Zimmerpflanzen verlängert. Saures Wasser ist ein natürliches keimtötendes
+                Mittel, im Gartenbau wird es beispielsweise zur Abwehr von Pilzkrankheiten eingesetzt. Blattläuse sowie
+                andere Schadinsekten werden durch die Behandlung mit saurem Wasser vertrieben. Das basische Wasser kann
+                maximal 12 Stunden aufbewahrt werden, das saure Wasser maximal 7 Tage. Der untere Teil des Gerätes wird
+                durch eine Mikro-Membran in zwei Kammern aufgeteilt, in die jeweils eine Spezial-Elektrode hineinragt,
+                sobald das Oberteil auf den Behälter aufgesetzt wird. Nach Vorwahl der entsprechenden Zeit für den
+                gewünschten pH-Wert (Anhand einer Tabelle) läuft die Ionisierung automatisch ab, das Gerät schaltet sich
+                anschließend ab. Nach dem Ionisierungsvorgang müssen Behälter und Elektroden von eventuellen
+                Ablagerungen gereinigt werden. Die Herstellung von Silberwasser erfolgt mit normalem Leitungswasser und
+                dauert lediglich wenige Sekunden!
+            </Content>
+            <IsLinkSuppressed>false</IsLinkSuppressed>
+        </EditorialReview>
+    </EditorialReviews>
+</Item>
