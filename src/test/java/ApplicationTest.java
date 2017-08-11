@@ -7,17 +7,17 @@ import org.junit.Test;
 public class ApplicationTest {
     @Test
     public void thisDoesntWork() throws Exception {
-        Assert.assertTrue(Application.thisDoesntWork());
+        Assert.assertFalse(Application.thisDoesntWork());
     }
 
     @Test
     public void thisWorks() throws Exception {
-        Assert.assertTrue(Application.thisWorks());
+        Assert.assertFalse(Application.thisWorks());
     }
 
     @Test
     public void thisDoesntWorkEither() throws Exception {
-        Assert.assertTrue(Application.thisDoesntWorkEither());
+        Assert.assertFalse(Application.thisDoesntWorkEither());
     }
 
 }
